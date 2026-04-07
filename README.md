@@ -51,7 +51,7 @@ The dashboard provides key insights into patient flow, waiting time, satisfactio
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](Dashbord.PNG)
+![Dashboard](dashboard.PNG)
 
 ---
 
